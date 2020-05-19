@@ -3,6 +3,8 @@
 
 In this workshop, we will use Angular Material to create a faceted search for the current astronauts at NASA.
 
+[bit.ly shortcut](bit.ly/blast-off-am)
+
 [Final demo](https://stackblitz.com/github/rnocc/blast-off-with-am/tree/final)
 
 [Slides](https://drive.google.com/file/d/1eTHOtAWx48WVdP0jzXNg4LkKDnPm8ufa/view)
